@@ -1,7 +1,4 @@
-# Network Optimization System Requirements
-======================================
-Python Version
-python==3.8.0
+
 
 # Data Processing Libraries
 pandas==1.3.1
